@@ -31,5 +31,3 @@ function unique(arr) {
 
     return resArr;
 }
-
-console.log(unique([3,-4,3,3,3]))

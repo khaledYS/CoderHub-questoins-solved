@@ -13,7 +13,7 @@ function str_len_comparison(words) {
         }else if (len !== element.length){
             len = null;
         }else {
-            len = element;
+            len = element.length;
         }
         console.log(len)
     }
